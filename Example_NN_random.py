@@ -96,6 +96,7 @@ plt.ylabel('cost')
 plt.xlabel('iterations (hundreds)')
 plt.title(NN)
 legend = plt.legend(loc='upper center', shadow=True)
+# Comentario prueba, borrar luego
 frame = legend.get_frame()
 frame.set_facecolor('0.90')
 plt.show()
