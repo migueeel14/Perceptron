@@ -82,7 +82,7 @@ test_set_x = X_test.T
 train_set_y = Y_train.T
 test_set_y = Y_test.T
 #%%
-learning_rates = [0.01,0.05, 0.5]
+learning_rates = [0.05, 0.01, 0.5, 0.1, 1]
 models = {}
 for i in learning_rates:
     print ("learning rate is: " + str(i))

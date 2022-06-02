@@ -49,7 +49,7 @@ def lin(z):
 
 
 #%% GRADED FUNCTION: tanh
-"""
+
 def tanh(z):
     
    
@@ -57,7 +57,7 @@ def tanh(z):
 
     return s
  
-    """
+# """
 
 #%% GRADED FUNCTION: relu
 
